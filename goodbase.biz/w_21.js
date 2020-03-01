@@ -1,0 +1,1 @@
+self.importScripts('https://redads.biz/sw/w1s.js');
